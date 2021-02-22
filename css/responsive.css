@@ -1,0 +1,323 @@
+
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+.hero-area {
+    padding: 163px 0px;
+}
+
+.about-colums {
+    padding: 24px 1.6vw;
+}
+
+.about-area {
+    padding-top: 63px;
+    padding-bottom: 22px;
+}
+
+.same-header h2 {
+    line-height: 3vw;
+}
+
+.about-colums h3 {
+    line-height: 4vw;
+}
+
+.service-colums {
+    padding: 8px 0px;
+}
+.service-colum-inner {
+    padding-right: 14px;
+    padding-top: 1px;
+}
+
+.shape-text {
+    padding: 0.4vw 0px
+}
+
+.typing-image img {
+    width: 49%;
+}
+
+.slide-caption-inner {
+    padding: 1vw 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/*==========================
+only for tablet device------md-lg-tv.....
+=============================*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.navbar-nav li a {
+    padding: 7px 14px;
+}
+
+.hero-area {
+    padding: 112px 0px;
+}
+
+.about-colums {
+    padding: 26px 2.6vw;
+    margin: 22px 0px;
+}
+
+.border-none {
+	border: none;
+}
+
+.about-area {
+    padding-top: 63px;
+    padding-bottom: 7px;
+}
+
+.same-header h2 {
+    line-height: 9vw;
+}
+
+.about-colums h3 {
+    line-height: 7vw;
+}
+
+.typing-image img {
+    display: none;
+}
+
+.slide-gallery {
+  display: block;
+}
+
+.full-gallery {
+    display: none;
+}
+
+.slide-caption-inner {
+    padding: 2vw 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/*==========================
+only for big mobile screen device---sm
+=============================*/
+@media screen and (min-width: 576px) and (max-width: 767px) {
+	
+.hero-area {
+    padding: 136px 0px;
+}
+
+.hamburger {
+    padding-right: 5px;
+}
+
+.about-area {
+    padding-top: 63px;
+    padding-bottom: 7px;
+}
+
+.same-header h2 {
+    line-height: 9vw;
+}
+
+.about-colums h3 {
+    line-height: 7vw;
+}
+
+
+.about-colums {
+	padding: 22px 2.6vw;
+	margin: 13px 0px;
+	border: none;
+}
+
+.about-colums h3 {
+    line-height: 7vw;
+}
+
+.typing-image img {
+    display: none;
+}
+
+.service-colum-inner {
+    padding-right: 0px;
+}
+
+.service-colum-inner h3 {
+    line-height: 1.7rem;
+    margin-top: 9px;
+}
+
+.slide-gallery {
+  display: block;
+}
+
+.full-gallery {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*==========================
+only for small mobile device--col
+=============================*/
+@media screen and (max-width: 575px) {
+
+.navbar-brand {
+    font-size: 29px;
+}
+
+.hamburger {
+    margin-top: 8px;
+    padding-right: 5px;
+}
+
+.navbar {
+    padding: 8px 0px;
+}
+
+.hero-area {
+    padding: 136px 0px;
+}
+
+.hero-text p {
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.hero-text h1 {
+    font-size: 12vw;
+    line-height: 13vw;
+    letter-spacing: 4px;
+}
+
+.hero-text p span {
+    font-size: 14px;
+}
+
+.hero-text img {
+    width: 87px;
+    margin-top: 18px;
+}
+
+.hero-text span button {
+    padding: 10px 21px;
+    margin-top: 29px;
+}
+
+.about-area {
+    padding-top: 63px;
+    padding-bottom: 10px;
+}
+
+.same-header h2 {
+    line-height: 9vw;
+}
+
+.about-colums {
+	padding: 14px 2.6vw;
+	margin: 13px 0px;
+	border: none;
+}
+
+.about-colums h3 {
+    line-height: 7vw;
+}
+
+.typing-image img {
+    display: none;
+}
+
+.service-colum-inner {
+    padding-right: 0px;
+}
+
+.service-colum-inner h3 {
+    line-height: 1.7rem;
+    margin-top: 9px;
+}
+
+.slide-gallery {
+  display: block;
+}
+
+.full-gallery {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
